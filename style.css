@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar-brand{
+    font-size: 2rem;
+    color: white;
+
+}
+.nav-link {
+ color: white;
+}
+.row h1{
+    color: white;
+    padding: 40px;
+    
+    
+}
+.row p{
+    color: white;
+    padding: 40px;
+    padding-top: 5px;
+}
+.btn{
+
+    width: 170px;
+   
+    margin-left: 40px;
+   
+}
+.image1{
+    width: 75%;
+    border-radius: 2%;
+    margin-right: 50px;
+
+}
+.image2{
+    padding: 25px;
+    width: 92%;
+ 
+    margin-left: 50px;
+    
+    
+}
+.heading{
+    padding-top: 30px;
+    padding-left: 31px;
+}
+.row h3{
+    margin-left: 29px;
+    padding: 5px;
+    color: black;
+}
+.box{
+    width: 100%;
+    margin-left: 30px;
+    border-radius: 5px;
+    background-color: rgb(187,184,184);
+}
